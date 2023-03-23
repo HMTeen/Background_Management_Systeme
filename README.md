@@ -1,0 +1,2 @@
+# Background_Management_Systeme
+ 基于Django前后端不分离开发的后端管理系统学习
